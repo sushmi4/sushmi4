@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161a26"/>
+      <stop offset="55%" stop-color="#10141f"/>
+      <stop offset="100%" stop-color="#0a0d15"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F9522E"/>
+      <stop offset="100%" stop-color="#f46812"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <circle cx="130" cy="250" r="120" fill="#F9522E" opacity="0.07"/>
+  <circle cx="1080" cy="30" r="150" fill="#f46812" opacity="0.06"/>
+  <circle cx="1080" cy="30" r="80" fill="#F9522E" opacity="0.05"/>
+
+  <g font-family="Consolas, Menlo, monospace">
+    <text x="80" y="150" font-size="66" font-weight="bold" fill="#ffffff" letter-spacing="1">Sushmita</text>
+    <text x="82" y="196" font-size="32" fill="#F9522E" letter-spacing="3">WEB DEVELOPER</text>
+  </g>
+
+  <rect x="82" y="214" width="380" height="6" rx="3" fill="url(#accent)"/>
+</svg>
