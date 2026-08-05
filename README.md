@@ -4,11 +4,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9522E&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Sushmita+%F0%9F%91%8B;Web+Developer;PHP+%26+MySQL+Developer;Building+things+for+the+web" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9522E&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Sushmita+%F0%9F%91%8B;Web+Developer;Python+%26+Django+Developer;Building+things+for+the+web" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -22,8 +25,7 @@
 
 ## 👋 About Me
 
-- 🔭 I'm currently building the **SeroFero Bus Reservation System**
-- 🌱 I'm learning **PHP, MySQL and Java**
+- 🌱 I'm currently learning **Python, Django and PostgreSQL**
 - 💼 Aspiring **Web Developer** — turning ideas into working web apps
 - 📫 Reach me at: **tsushmita360@gmail.com**
 - ⚡ Fun fact: I love clean code and comfy journeys 🚌
