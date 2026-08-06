@@ -28,14 +28,6 @@
 - 💼 Currently learning **Python, Django and PostgreSQL**
 - 📫 Reach me at: **tsushmi436@gmail.com**
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**SeroFero Bus Reservation System**](https://github.com/sushmi4/SeroFero-Bus-Reservation-System) | Web-based bus ticket booking with user & admin panels | PHP, MySQL, HTML, CSS |
-| [**Online Voting System**](https://github.com/sushmi4/Online-Voting-System) | Secure online voting application | Java |
-| [**Habit Garden**](https://github.com/sushmi4/Habit-Garden) | Habit tracking web application to build and maintain daily routines | Django, HTML, CSS |
-
 ## 📊 GitHub Stats
 
 <p align="center">
