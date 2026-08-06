@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,10 +23,9 @@
 
 ## 👋 About Me
 
-- 🌱 I'm currently learning **Python, Django and PostgreSQL**
-- 💼 Aspiring **Web Developer** — turning ideas into working web apps
-- 📫 Reach me at: **tsushmita360@gmail.com**
-- ⚡ Fun fact: I love clean code and comfy journeys 🚌
+- 🎓 I am a BCA student
+- 💼 Currently learning **Python, Django and PostgreSQL**
+- 📫 Reach me at: **tsushmi436@gmail.com**
 
 ## 🚀 Featured Projects
 
@@ -36,16 +33,16 @@
 |---|---|---|
 | [**SeroFero Bus Reservation System**](https://github.com/sushmi4/SeroFero-Bus-Reservation-System) | Web-based bus ticket booking with user & admin panels | PHP, MySQL, HTML, CSS |
 | [**Online Voting System**](https://github.com/sushmi4/Online-Voting-System) | Secure online voting application | Java |
+| [**Habit Garden**](https://github.com/sushmi4/Habit-Garden) | Habit tracking web application to build and maintain daily routines | Django, HTML, CSS |
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmi4&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmi4&theme=dark&hide_border=true" alt="GitHub streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmi4&theme=dark&layout=compact&hide_border=true" alt="Top languages" width="45%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushmi4&theme=react-dark&hide_border=true&area=true" alt="Contribution graph">
 </p>
 
 ## 🤝 Connect with Me
@@ -54,7 +51,7 @@
   <a href="https://www.linkedin.com/in/sushmita-mgr4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:tsushmita360@gmail.com">
+  <a href="mailto:tsushmi436@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/sushmi4">
