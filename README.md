@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Sushmita — Web Developer banner" width="100%">
+  <img src="banner2.svg" alt="Sushmita — Web Developer banner" width="100%">
 </p>
 
 <p align="center">
