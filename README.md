@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmi4&theme=dark&hide_border=true" alt="GitHub streak" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=sushmi4&theme=dark&hide_border=true" alt="GitHub streak" width="48%">
 </p>
 
 <p align="center">
