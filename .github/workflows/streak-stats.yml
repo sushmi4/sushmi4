@@ -8,26 +8,43 @@ on:
       - ".github/workflows/streak-stats.yml"
   workflow_dispatch:
 
+concurrency:
+  group: streak-stats
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.2
         with:
           options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&disable_animations=true&timezone=Asia/Kathmandu
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+          if git diff --cached --quiet; then
+            echo "No streak stats changes"
+            exit 0
+          fi
+          git commit -m "Update streak stats"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "Failed to push streak stats after 3 attempts" >&2
+          exit 1
